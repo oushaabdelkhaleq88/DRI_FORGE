@@ -1,0 +1,2 @@
+C:\Users\ousha\Work\Dri-Forge\DeviceInfoCollector\bin\Release\net9.0\win-x64\publish\DeviceInfoCollector.pdb
+C:\Users\ousha\Work\Dri-Forge\DeviceInfoCollector\bin\Release\net9.0\win-x64\publish\DeviceInfoCollector.exe
